@@ -3041,10 +3041,10 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
 
-node-encoder@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/node-encoder/-/node-encoder-1.0.1.tgz#b0a91dc85a410f91936afe91ab41e7372314eedc"
-  integrity sha512-TW1UcnhyABOOvqeQwETKnKb4BResh2V1dkmPC1oCUnWV344D1MeMpCuSmC7qErmf302eDwHi/oWcsim8Szjfeg==
+node-encoder@2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/node-encoder/-/node-encoder-2.0.4.tgz#89551f0550595b3a935cd7d253267734ccaa8744"
+  integrity sha512-ef2bKV7ODhTTHlo5uol8Cw2QMOuSJtVtAc/FSC5cyORFQ/vyHgKkaLGK6vZZdj+LLD3QgjQMOOmUJOntB+iCEQ==
 
 node-fetch@^2.3.0:
   version "2.6.0"
